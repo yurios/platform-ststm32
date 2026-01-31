@@ -30,7 +30,7 @@
     "maximum_size": 1048576,
     "protocol": "stlink",
     "protocols": [
-      "stlink",
+      "stlink"
     ]
   },
   "url": "https://www.st.com/en/evaluation-tools/nucleo-u385rg-q.html",
