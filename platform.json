@@ -294,6 +294,12 @@
       "owner": "platformio",
       "version": "~1.5.1"
     },
+    "framework-stm32cubeu3": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
+      "version": "~1.2.0"
+    },
     "framework-zephyr": {
       "type": "framework",
       "optional": true,
